@@ -26,5 +26,5 @@
 </div>
  
 <hr>
-  <div align=center><h1>Project</h1></
+  <div align=center><h1>Project</h1></div>
 <img src= https://cdn.discordapp.com/attachments/961574253113782292/1022088629906067538/1.png >
