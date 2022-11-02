@@ -27,8 +27,8 @@
  
 <hr>
 
-<details align=center>
-<summary><div align=center><h1>🎨Project  </summary></h1></div>
+<details>
+<summary><div><h1>🎨Project  </summary></h1></div>
    <div markdown="1">
 <a href = https://github.com/pj6577/myParang><img src= https://cdn.discordapp.com/attachments/961574253113782292/1022088629906067538/1.png  width="150" height="150" ></a>
 </div>
