@@ -22,10 +22,10 @@
       `\\_/    `'-.//         `\\_/   `'; o//        \___)   `._____.'
                                 `"`      `"`
                                 
-
+<!-- 
 <div align=center><img src= "https://user-images.githubusercontent.com/101180026/198953084-d51268c2-67cb-4c57-985c-d98c74dd8284.gif" width="150" height="150" /></div>
 
-<br>
+<br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpj6577&count_bg=%2379C83D&title_bg=%23555555&icon=askfm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <span style = 'background-color:dcffe4'>일일/ 총 view</span>
 
@@ -57,3 +57,4 @@
 <a href = https://github.com/pj6577/myParang><img src= https://cdn.discordapp.com/attachments/961574253113782292/1022088629906067538/1.png  width="150" height="150" ></a>
 </div>
 </details>
+ -->
