@@ -1,4 +1,4 @@
-
+```
                                                       ( #-...'`\
                                                        \ #     |
                                                       _ )"===="| _
@@ -20,9 +20,10 @@
       || `'.'._   /-"//       {{o '.'.   //" //    (     `\       \_
       ||  ,/`-.`./  //        {{  \/`.`.//  //      \    .-`\       `\
       `\\_/    `'-.//         `\\_/   `'; o//        \___)   `._____.'
+      '''
                                 `"`      `"`
                                 
-<!-- 
+
 <div align=center><img src= "https://user-images.githubusercontent.com/101180026/198953084-d51268c2-67cb-4c57-985c-d98c74dd8284.gif" width="150" height="150" /></div>
 
 <br />
@@ -57,4 +58,4 @@
 <a href = https://github.com/pj6577/myParang><img src= https://cdn.discordapp.com/attachments/961574253113782292/1022088629906067538/1.png  width="150" height="150" ></a>
 </div>
 </details>
- -->
+
