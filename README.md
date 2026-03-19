@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jae%20Park&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Frontend%20Developer&descSize=16&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=pj6577&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Frontend%20Developer&descSize=16&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -8,6 +8,22 @@
 
 I build interfaces where users never feel lost — from landing pages and SaaS platforms to B2B commerce and public welfare systems. Passionate about clean UI/UX, workflow automation, and exploring the intersection of Web3 and real-world usability.
 
+<br/>
+
+---
+
+### GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pj6577&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pj6577&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pj6577&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="600" />
+
+<br/>
 <br/>
 
 ---
