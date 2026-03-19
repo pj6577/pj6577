@@ -1,55 +1,67 @@
-```
+<div align="center">
 
-      .             .        .     .     |--|--|--|--|--|--|  |===|==|   /    i
-        .            ______________|__|__|__|__|__|_ |  |===|==|  *  . /=\
-__ *            .   /______________________________|-|  |===|==|       |=|  .
-__|  .      .   .  //______________________________| :----------------------.
-__|   /|\      _|_|//       ooooooooooooooooooooo  |-|   Thank     you      |
-__|  |/|\|__   ||l|/,-------8  Hi               8 -| |                      |
-__|._|/|\|||.l |[=|/,-------8  I`M              8 -|-|                      |
-__|[+|-|-||||li|[=|---------8  PARK JAEHYEON    8 -| |    for    visiting   |
-_-----.|/| //:\_[=|\`-------8  My Git !!        8 -|-|                      |
- /|  /||//8/ :  8_|\`------ 8ooooooooooooooooooo8 -| |                      |
-/=| //||/ |  .  | |\\_____________  ____  _________|-|                      |
-==|//||  /   .   \ \\_____________ |X|  | _________| `---==------------==---'
-==| ||  /         \ \_____________ |X| \| _________|     ||            ||
-==| |~ /     .     \
-LS|/  /             \______________________________________________________
-                                                                        
-     
-```
-<!-- <div align=center><img src= "https://user-images.githubusercontent.com/101180026/198953084-d51268c2-67cb-4c57-985c-d98c74dd8284.gif" width="150" height="150" /></div>
- -->
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jae%20Park&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Frontend%20Developer&descSize=16&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpj6577&count_bg=%2379C83D&title_bg=%23555555&icon=askfm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <span style = 'background-color:dcffe4'>일일/ 총 view</span>
+<br/>
 
-<hr>
-<div align=center><h1>📚 STACKS</h1></div>
+**A user-focused frontend developer crafting seamless, intuitive digital experiences.**
 
-<div>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+I build interfaces where users never feel lost — from landing pages and SaaS platforms to B2B commerce and public welfare systems. Passionate about clean UI/UX, workflow automation, and exploring the intersection of Web3 and real-world usability.
+
+<br/>
+
+---
+
+### Tech Stack
+
+<br/>
+
+`Frontend`
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+`Styling & UI`
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+`Tools & Automation`
+
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+`Blockchain & Web3`
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+<br/>
+<br/>
+
+---
+
+### Contact
+
+<br/>
+
+<a href="https://x.com/cantWinGG"><img src="https://img.shields.io/badge/@cantWinGG-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://t.me/gicho11"><img src="https://img.shields.io/badge/@gicho11-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://open.kakao.com/o/sI69ubmi"><img src="https://img.shields.io/badge/KakaoTalk-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=black" /></a>
+
+<br/>
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+
 </div>
- 
-<hr>
-<span align=center>
-<details>
- <summary><h1>🎨Project</summary></h1></span>
-   <div markdown="1">
-<a href = https://github.com/pj6577/myParang><img src= https://cdn.discordapp.com/attachments/961574253113782292/1022088629906067538/1.png  width="150" height="150" ></a>
-</div>
-</details>
-
