@@ -35,8 +35,7 @@
       </a>
     </td>
     <td width="130" valign="middle">
-      <a href="https://www.orza.kr"><b>ORZA ↗</b></a><br/>
-      <sub>orza.kr</sub>
+      <a href="https://www.orza.kr"><b>ORZA</b></a>
     </td>
     <td valign="middle">
       <b>실제 시세로, 부담 없이 투자 연습.</b><br/>
@@ -50,8 +49,7 @@
       </a>
     </td>
     <td width="130" valign="middle">
-      <a href="https://www.ssalspi.kr"><b>쌀스피 ↗</b></a><br/>
-      <sub>ssalspi.kr</sub>
+      <a href="https://www.ssalspi.kr"><b>쌀스피</b></a>
     </td>
     <td valign="middle">
       <b>게임 시세를 한눈에.</b><br/>
@@ -65,8 +63,7 @@
       </a>
     </td>
     <td width="130" valign="middle">
-      <a href="https://chromewebstore.google.com/detail/dhgfnibbnjieajcmnohdkiandeljeaef"><b>오늘시작 ↗</b></a><br/>
-      <sub>Chrome 웹 스토어</sub>
+      <a href="https://chromewebstore.google.com/detail/dhgfnibbnjieajcmnohdkiandeljeaef"><b>오늘시작</b></a>
     </td>
     <td valign="middle">
       <b>내가 지원한 곳, 한곳에서 관리.</b><br/>
