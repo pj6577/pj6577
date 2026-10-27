@@ -63,7 +63,7 @@
       </a>
     </td>
     <td width="130" valign="middle">
-      <a href="https://chromewebstore.google.com/detail/dhgfnibbnjieajcmnohdkiandeljeaef"><b>오늘시작</b></a>
+      <a href="https://pj6577.github.io/todaystart/"><b>오늘시작</b></a>
     </td>
     <td valign="middle">
       <b>내가 지원한 곳, 한곳에서 관리.</b><br/>
