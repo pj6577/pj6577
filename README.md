@@ -30,12 +30,12 @@
   <tbody>
   <tr>
     <td width="200" align="center" valign="middle">
-      <a href="https://www.orza.kr">
+      <a href="https://funnest.xyz/">
         <img src="./assets/products/orza.png" width="200" alt="ORZA — 코인과 상승 화살표를 담은 제품 배너" />
       </a>
     </td>
     <td width="130" valign="middle">
-      <a href="https://www.orza.kr"><b>ORZA</b></a>
+      <a href="https://funnest.xyz"><b>ORZA</b></a>
     </td>
     <td valign="middle">
       <b>실제 시세로, 부담 없이 투자 연습.</b><br/>
